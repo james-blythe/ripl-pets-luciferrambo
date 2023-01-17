@@ -2,7 +2,7 @@
     "Pets": [
         {
             "Owner": "Micah Gordon",
-            "Pets name": "Smokey",
+            "PetsName": "Smokey",
             "Species": "Cat",
             "DOB": "4/10/19",
             "Breed": "Russian Blue",
@@ -12,7 +12,7 @@
         {
             "featured": true,
             "Owner": "David Costantino",
-            "Pets name": "Alice",
+            "PetsName": "Alice",
             "Species": "Cat",
             "DOB": "10/1/13",
             "Breed": "Domestic Shorthair",
@@ -21,7 +21,7 @@
         },
         {
             "Owner": "Nile Dixon",
-            "Pets name": "Espurr",
+            "PetsName": "Espurr",
             "Species": "Cat",
             "DOB": "4/15/22",
             "Breed": "Tabby",
@@ -29,7 +29,7 @@
         },
         {
             "Owner": "Madelyn Rahn",
-            "Pets name": "Bruiser",
+            "PetsName": "Bruiser",
             "Species": "Dog",
             "DOB": "1/31/22",
             "Breed": "Chihuahua/Terrier Mix",
@@ -38,7 +38,7 @@
         },
         {
             "Owner": "Joe Long",
-            "Pets name": "Quincy",
+            "PetsName": "Quincy",
             "Species": "Cat",
             "DOB": "9/13/16",
             "Breed": "Domestic shorthair",
@@ -47,7 +47,7 @@
         },
         {
             "Owner": "Mintaka Angell",
-            "Pets name": "Rosie (aka Rosie Cotton aka Norman Roswell aka The Monster)",
+            "PetsName": "Rosie",
             "Species": "Cat",
             "DOB": "4/16/16",
             "Breed": "Bengal",
@@ -56,7 +56,7 @@
         },
         {
             "Owner": "Kaitlin Sweetin",
-            "Pets name": "Bruce",
+            "PetsName": "Bruce",
             "Species": "Dog",
             "DOB": "2/10/20",
             "Breed": "Golden Retriever ",
@@ -65,7 +65,7 @@
         },
         {
             "Owner": "Jade Borgeson",
-            "Pets name": "Huxley",
+            "PetsName": "Huxley",
             "Species": "Dog",
             "DOB": "5/2/22",
             "Breed": "Bluetick Coonhound",
@@ -74,7 +74,7 @@
         },
         {
             "Owner": "Jade Borgeson",
-            "Pets name": "May",
+            "PetsName": "May",
             "Species": "Cat",
             "DOB": "9/1/14",
             "Breed": "Tabby",
@@ -82,14 +82,14 @@
         },
         {
             "Owner": "Jade Borgeson",
-            "Pets name": "Herbert",
+            "PetsName": "Herbert",
             "Species": "Cat",
             "DOB": "9/2/19",
             "Breed": "Ragdoll"
         },
         {
             "Owner": "Malavika Kumaran",
-            "Pets name": "Moomoo",
+            "PetsName": "Moomoo",
             "Species": "Dog",
             "DOB": "3/12/21",
             "Breed": "Beagle",
@@ -98,7 +98,7 @@
         },
         {
             "Owner": "Emilie Rafal",
-            "Pets name": "Dill",
+            "PetsName": "Dill",
             "Species": "Dog",
             "DOB": "2/1/20",
             "Breed": "Boston Terrier / Pit mix (?)",
@@ -107,7 +107,7 @@
         },
         {
             "Owner": "Emilie Rafal",
-            "Pets name": "Koda",
+            "PetsName": "Koda",
             "Species": "Dog",
             "DOB": "1/1/20",
             "Breed": "Lab / Shepherd / Pit Mix (?)",
@@ -116,7 +116,7 @@
         },
         {
             "Owner": "Ruben Rahman",
-            "Pets name": "Simba",
+            "PetsName": "Simba",
             "Species": "Cat",
             "DOB": "10/31/19",
             "Breed": "Domestic Medium Hair",
@@ -125,7 +125,7 @@
         },
         {
             "Owner": "Ruben Rahman",
-            "Pets name": "Korra",
+            "PetsName": "Korra",
             "Species": "Cat",
             "DOB": "10/31/19",
             "Breed": "Domestic Short-Hair",
@@ -133,7 +133,7 @@
         },
         {
             "Owner": "Amelia Roberts",
-            "Pets name": "Mittens",
+            "PetsName": "Mittens",
             "Species": "Cat",
             "DOB": "9/1/10",
             "Breed": "Tuxedo",
@@ -142,7 +142,7 @@
         },
         {
             "Owner": "Amelia Roberts",
-            "Pets name": "Bo",
+            "PetsName": "Bo",
             "Species": "Dog",
             "DOB": "11/9/21",
             "Breed": "Beagle/Lab/Greyhound",
@@ -151,7 +151,7 @@
         },
         {
             "Owner": "Kyle Hancock",
-            "Pets name": "Huck",
+            "PetsName": "Huck",
             "Species": "Dog",
             "DOB": "12/24/17",
             "Breed": "Cockapoo",
@@ -161,7 +161,7 @@
         {
             "featured": true,
             "Owner": "Kyle Hancock",
-            "Pets name": "Kubota",
+            "PetsName": "Kubota",
             "Species": "Dog",
             "DOB": "5/5/21",
             "Breed": "Yellow Lab",
@@ -171,7 +171,7 @@
         {
             "featured": true,
             "Owner": "Kyle Hancock",
-            "Pets name": "Sully",
+            "PetsName": "Sully",
             "Species": "Dog",
             "DOB": "12/20/21",
             "Breed": "Shiranian",
@@ -180,7 +180,7 @@
         },
         {
             "Owner": "Kyle Hancock",
-            "Pets name": "2c",
+            "PetsName": "2c",
             "Species": "Cat",
             "DOB": "5/12/10",
             "Breed": "Barn Cat",
@@ -189,7 +189,7 @@
         },
         {
             "Owner": "Kyle Hancock",
-            "Pets name": "Oynx",
+            "PetsName": "Oynx",
             "Species": "Cat",
             "DOB": "6/2/08",
             "Breed": "Barn Cat",
@@ -199,7 +199,7 @@
         {
             "featured": true,
             "Owner": "Sarah White",
-            "Pets name": "Lou",
+            "PetsName": "Lou",
             "Species": "Dog",
             "Breed": "Terrier",
             "Summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Interdum velit laoreet id donec. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae. Scelerisque felis imperdiet proin fermentum leo vel orci. Sem nulla pharetra diam sit amet nisl. Quis vel eros donec ac odio tempor orci. A iaculis at erat pellentesque adipiscing. Lacus laoreet non curabitur gravida arcu ac tortor dignissim. Erat nam at lectus urna duis convallis convallis. Iaculis eu non diam phasellus vestibulum lorem sed. Tortor aliquam nulla facilisi cras fermentum odio eu. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Metus vulputate eu scelerisque felis. Bibendum arcu vitae elementum curabitur vitae nunc sed velit dignissim. Natoque penatibus et magnis dis. Facilisis mauris sit amet massa. Mattis enim ut tellus elementum. In nisl nisi scelerisque eu ultrices vitae auctor eu. In massa tempor nec feugiat nisl pretium. Euismod quis viverra nibh cras pulvinar mattis nunc.",
