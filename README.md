@@ -1,22 +1,47 @@
-# pets.ripl.org
+# RIPL Pet Directory
 
-## Adding pets
+This project provides a card for each RIPL pet using ReactJS, CSS and HTML. RIPL features 3 pets at a time, which are noted in the JSON file.
 
-Create an entry for the desired pet in `public/pets.json`.
+## Features
 
-If possible, include an image that summaries the pet in `public/images/`. The filename should be included as the `image` property in the JSON entry.
+- Responsive design – the site should never expand beyond 3 columns of cards but should shrink to a single column depending on the browser size.
+- Filter – a filter functionality should be included to filter by either tag or owner. Attributes of each pet not highlighted elsewhere should be considered a tag.
+- Pagination – so that the page does not scroll for too long, pagination should be included after nine pets. The first page will include 3 featured pets and six regular pets. All other subsequent pages will contain nine pets.
+- Unit Tests – Unit tests have been implemented using React Testing Library.
 
-To resize and optimize the size of the image file using the `tinify` library, set your Tinify API key in the `TINIFY_KEY` environment variable and run:
+## Requirements
 
-    python ./util/optimize-image.py ./public/images/{filename}.{png|jpg}
+- Node.js
+- Yarn
 
-This will resize and optimze the file inplace.
+## Installation
 
-## Deploying to production
+Clone the repository:
 
-To rebuild and deploy the entire site after making updates to the JSON, iamges, or the React app, use:
+```
+git clone https://github.com/luciferrambo/ripl-pets-luciferrambo.git
+```
 
-    yarn build
-    ...
-    .....
-	.......
+Install dependencies:
+
+```
+yarn install
+```
+
+Starting Directory:(start this assessment in the solution folder)
+
+```
+cd solution
+```
+
+Start the project:
+
+```
+yarn start
+```
+
+Run tests:
+
+```
+yarn test
+```
