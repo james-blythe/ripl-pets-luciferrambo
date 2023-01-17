@@ -1,0 +1,15 @@
+.cutomized-header {
+  height: 83px;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  box-shadow: 0px 0px 38px 0px rgb(0 0 0 / 10%);
+  justify-content: flex-start;
+  margin-bottom: 20px;
+  .ripl-logo {
+    width: 97px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+}
